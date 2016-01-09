@@ -1,3 +1,7 @@
+Hello this is a Purple Slimer fork thanks to albi and, original GhostScroll author
+
+**************
+
 Hello! This is a GhostScroll Fork. http://ghostscroll.grmmph.com/
 Please READ "Customization" BEFORE USING! Write me if you like it! albi[at]twelvepurplepills.com
 

@@ -177,7 +177,7 @@ a:hover {
 a.btn {
     
     text-decoration: none;
-    background-color: #800080;
+    background-color: #4169E1;
     border-radius: 6px;
     -webkit-border-radius: 6px;
     color: white;
@@ -482,7 +482,7 @@ li {
 }
 
 .post-holder.odd {
-    background: #800080;
+    background: #4169E1;
     color: white;
 }
 
